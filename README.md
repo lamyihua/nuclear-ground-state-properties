@@ -8,6 +8,13 @@ Exotic nuclei that potentially exhibit new phenomena provide testing ground for 
  
 Recently, we collaborated with Peter Ring, professor emeritus of Technische Universität München, in using the covariant density functional theory to predict the existence and properties of these exotic nuclei. The covariant density functional theory is capable in describing the interactions among nucleons in the nuclear medium. The nucleon-nucleon interactions can be expressed in the form of either point-coupling interaction (assuming nucleons as point-like particles interacting with one another) or meson-exchange interaction (assuming nucleons as some constituents communicating with one another via passing the messengers – mesons). We plugged in one of these interactions to the Relativistic Hartree-Bogoliubov approach to systematically explore the ground state properties of all isotopic chains from oxygen to darmstadtium. These properties consist of the binding energies, one-neutron and two-neutron separation energies, root-mean-square radii of matter, of neutron, of proton and of charge distribution, Fermi surfaces, ground-state spins and parities. Based on these ground state properties of nuclei, we explored the drip lines of neutron and proton, halo phenomena, and new magic numbers. Our result provides corresponding guidance for future experiments and theoretical research in nuclear physics. The research outcome was published at Atomic Data and Nuclear Data Tables. 
 
+The ASCII formated downloadable tables: 
+- [x] Binding energies, one- and two-neutron separation energies of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions, compared with available experimental (AME2020) binding energies. (See Table4.dat)[^1]
+- [x] Radii of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions, compared with available experimental charge radii. (See Table5.dat)[^1]
+- [x] Ground state properties of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions. (See Table6.dat)
+
+[^1] Throughout this table, experimental uncertainties are omitted.
+
 This work was financially supported by the Strategic Priority Research Program of Chinese Academy of Sciences (No. XDB34020100), National Natural Science Foundation of China (No. 11775277), Chinese Academy of Sciences President’s International Fellowship Initiative (No. 2019FYM0002), and the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany Excellence Strategy EXC-2094-390783311. 
 
 
@@ -16,7 +23,7 @@ If you use the data of this work in your research work and publications, please 
 
 ```
 Z. X. Liu, Y. H. Lam, N. Lu, and P. Ring, 
-*Nuclear ground-state properties probed by the relativistic Hartree-Bogoliubov approach*, 
+Nuclear ground-state properties probed by the relativistic Hartree-Bogoliubov approach, 
 At. Data Nucl. Data Tables XXX, YYY (2024) 
 https://doi.org/??? 
 ```
