@@ -24,11 +24,11 @@ https://doi.org/???
 ### Additional information ###
 **License**
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 The data tables are licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 (see LICENSE.txt).
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
