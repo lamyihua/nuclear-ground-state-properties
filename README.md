@@ -10,19 +10,19 @@ Recently, we collaborated with Peter Ring, professor emeritus of Technische Univ
 
 |![NucChart_PCL3R_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/1e38050d-a270-4d5d-bb84-3ce601a2e180)|
 |:--:| 
-| *Figure 1. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the ([PC-L3R](https://doi.org/10.1016/j.physletb.2023.137946)) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 1. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [PC-L3R](https://doi.org/10.1016/j.physletb.2023.137946) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 |![NucChart_PCX_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/f9158f10-a012-4ebf-989e-76e1790f7183)|
 |:--:| 
-| *Figure 2. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the ([PC-X](http://dx.doi.org/10.1016/j.physletb.2019.135065)) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 2. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [PC-X](http://dx.doi.org/10.1016/j.physletb.2019.135065) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 |![NucChart_DDMEX_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/95870404-cf9d-494f-b514-5d2ebfaf806b)|
 |:--:| 
-| *Figure 3. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the ([DD-MEX](http://dx.doi.org/10.1016/j.physletb.2019.135065)) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 3. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [DD-MEX](http://dx.doi.org/10.1016/j.physletb.2019.135065) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 |![NucChart_DDPCX_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/a7df2446-a622-4e6f-b30f-ebb2741aaa14)|
 |:--:| 
-| *Figure 4. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the ([DD-PCX](http://dx.doi.org/10.1103/PhysRevC.99.034318)) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 4. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [DD-PCX](http://dx.doi.org/10.1103/PhysRevC.99.034318) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 
 The research outcome was published at Atomic Data and Nuclear Data Tables (Open Access). The data tables of the article are converted to the ASCII format and can be downloaded at this GitHub page: 
