@@ -14,10 +14,14 @@ This work was financially supported by the Strategic Priority Research Program o
 ### Citation ###
 If you use the data of this work in your research work and publications, please cite us:
 
-| Z. X. Liu, Y. H. Lam, N. Lu, and P. Ring |
-| Nuclear ground-state properties probed by the relativistic Hartree-Bogoliubov approach |
-| At. Data Nucl. Data Tables XXX, YYY (2024) |
-| https://doi.org/??? |
+```
+{
+Z. X. Liu, Y. H. Lam, N. Lu, and P. Ring 
+Nuclear ground-state properties probed by the relativistic Hartree-Bogoliubov approach 
+At. Data Nucl. Data Tables XXX, YYY (2024) 
+https://doi.org/??? 
+}
+```
 
 ### Additional information ###
 **License**
