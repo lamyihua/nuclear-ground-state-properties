@@ -1,5 +1,5 @@
 # nuclear-ground-state-properties
-Nuclear ground-state properties from the relativistic Hartree-Bogoliubov approach
+## Nuclear ground-state properties from the relativistic Hartree-Bogoliubov approach ##
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
