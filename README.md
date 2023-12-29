@@ -28,6 +28,20 @@ At. Data Nucl. Data Tables XXX, YYY (2024)
 https://doi.org/??? 
 ```
 
+BibTeX format
+```
+@ARTICLE{Liu_etal_2023,
+       author = {{Liu}, Zi Xin and {Lam}, Yi Hua and {Lu}, Ning and {Ring}, Peter},
+        title = "{Nuclear ground-state properties probed by the relativistic Hartree-Bogoliubov approach}",
+      journal = {At. Data Nucl. Data Tables},
+     keywords = {Nuclear Theory, Nuclear Experiment},
+         year = 2023,
+        month = sep,
+          doi = {10.48550/arXiv.2309.06371},
+          url = {https://ui.adsabs.harvard.edu/abs/2023arXiv230906371L},
+}
+```
+
 ### Additional information ###
 
 **Contributors**
