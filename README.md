@@ -26,9 +26,9 @@ Recently, we collaborated with Peter Ring, professor emeritus of Technische Univ
 
 
 The research outcome was published at Atomic Data and Nuclear Data Tables (Open Access). The data tables of the article are converted to the ASCII format and can be downloaded at this GitHub page: 
-- [x] **Table 4**: Binding energies, one- and two-neutron separation energies of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions, compared with available experimental (AME2020) binding energies. (See Table4.dat) [^1]
-- [x] **Table 5**: Radii of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions, compared with available experimental charge radii. (See Table5.dat) [^1]
-- [x] **Table 6**: Ground state properties of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions. (See Table6.dat)
+- [x] **Table A**: Binding energies, one- and two-neutron separation energies of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions, compared with available experimental (AME2020) binding energies. (See Table4.dat) [^1]
+- [x] **Table B**: Radii of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions, compared with available experimental charge radii. (See Table5.dat) [^1]
+- [x] **Table C**: Ground state properties of nuclei yielded from the RHB approach with the PC-L3R, PC-X, DD-MEX, or DD-PCX interactions. (See Table6.dat)
 
 [^1]: Throughout this table, experimental uncertainties are omitted.
 
