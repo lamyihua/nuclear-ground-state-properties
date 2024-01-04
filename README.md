@@ -65,7 +65,7 @@ BibTeX format
 
 The people that contributed to the data tables are:
 - Zi Xin Liu <a href="https://orcid.org/0000-0001-5652-1516" title="ORCID"><img src="https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/c9e616f5-2b97-433a-9d34-96d0a355a508" alt="ORCID" width="20"/></a> ([Institute of Modern Physics, Chinese Academy of Sciences](https://orcid.org/0000-0001-5652-1516)) 
-- Yi Hua Lam <a href="https://orcid.org/0000-0001-6646-0745" title="ORCID"><img src="https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/c9e616f5-2b97-433a-9d34-96d0a355a508" alt="ORCID" width="20"/></a> ([Institute of Modern Physics, Chinese Academy of Sciences](https://orcid.org/0000-0001-6646-0745))
+- [Yi Hua Lam](https://lamyihua.github.io/) <a href="https://orcid.org/0000-0001-6646-0745" title="ORCID"><img src="https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/c9e616f5-2b97-433a-9d34-96d0a355a508" alt="ORCID" width="20"/></a> ([Institute of Modern Physics, Chinese Academy of Sciences](https://orcid.org/0000-0001-6646-0745))
 - Ning Lu <a href="https://orcid.org/0000-0002-3445-0451" title="ORCID"><img src="https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/c9e616f5-2b97-433a-9d34-96d0a355a508" alt="ORCID" width="20"/></a> ([Institute of Modern Physics, Chinese Academy of Sciences](https://orcid.org/0000-0002-3445-0451)) 
 - Peter Ring <a href="https://orcid.org/0000-0001-7129-2942" title="ORCID"><img src="https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/c9e616f5-2b97-433a-9d34-96d0a355a508" alt="ORCID" width="20"/></a> ([Technische Universität München](https://orcid.org/0000-0001-7129-2942))
 
