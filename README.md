@@ -2,8 +2,7 @@
 
 ## Predicting the Ground State Properties of Undiscovered Nuclei and Exploring the Uncharted Border of Nuclear Landscape ##
 
-|![MassExcess_PCL3R](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/27dc8e9e-16c9-49cc-995e-4f868fa313f9)
-|
+|![MassExcess_PCL3R](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/27dc8e9e-16c9-49cc-995e-4f868fa313f9)|
 |:--:| 
 |The 3D nuclide chart displaying the new isotopes predicted by the relativistic Hartree-Bogoliubov approach with the PC-L3R interaction. Experimentally confirmed isotopes (white region) and stable nuclei (black histograms in the middle of white region) are shown against the background of predicted isotopes. The height of each histogram represents the normalized mass excess of the predicted isotope. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. *Image credit: Yi Hua Lam & Ning Lu*| 
 
