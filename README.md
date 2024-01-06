@@ -75,7 +75,7 @@ The people that contributed to the data tables are:
 
 **Contact us**
 
-Yi Hua Lam (lamyihua[at]impcas.ac.cn)
+Yi Hua Lam [lamyihua(at)impcas.ac.cn]
 
 **Funding**
 
