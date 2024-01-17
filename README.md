@@ -4,7 +4,7 @@
 
 |![MassExcess_PCL3R](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/27dc8e9e-16c9-49cc-995e-4f868fa313f9)|
 |:--:| 
-|<div style="text-align: left"> The 3D nuclide chart displaying the new isotopes predicted by the relativistic Hartree-Bogoliubov approach with the PC-L3R interaction. Experimentally confirmed isotopes (white region) and stable nuclei (black histograms in the middle of white region) are shown against the background of predicted isotopes. The height of each histogram represents the normalized mass excess of the predicted isotope. The proton magic numbers of *Z* = 20, 28, 50, 82, and neutron magic numbers of *N* = 20, 28, 50, 82, 126, 184, and 258, are shown to guide the eyes. The neutron magic numbers of *N* = 184 and 258 are yet to be experimentally proven. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. *Image credit: Yi Hua Lam & Ning Lu* </div> | 
+|<div style="text-align: left"> The 3D nuclide chart displaying the new isotopes predicted by the relativistic Hartree-Bogoliubov approach with the PC-L3R interaction. Experimentally confirmed isotopes (white region) and stable nuclei (black histograms in the middle of white region) are shown against the background of predicted isotopes. The height of each histogram represents the normalized mass excess of the predicted isotope. The proton magic numbers of *Z* = 20, 28, 50, 82, and neutron magic numbers of *N* = 20, 28, 50, 82, 126, 184, and 258, are shown to guide the eyes. The neutron magic numbers of *N* = 184 and 258 are yet to be experimentally proven. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/10.1016/j.adt.2023.101635) for more details. *Image credit: Yi Hua Lam & Ning Lu* </div> | 
 
 With entering the new era of new generation radioactive-ion beam facilities, the new facilities allow us to resolve previously challenging experiments in discovering new isotopes, in revealing the important physics related to these exotic nuclei far from the β-stability valley, and in deepening our understanding of the origins and evolutions of the chemical elements in the Universe. These facilities are constructed at but not limited to the Second Generation System On-Line Production of Radioactive Ions ([SPIRAL2](https://www.ganil-spiral2.eu/)) at GANIL in France, the Radioactive Ion Beam Factory ([RIBF](https://www.riken.jp/en/collab/resources/ribf/)) at RIKEN in Japan, the Facility for Rare Isotope Beams ([FRIB](https://frib.msu.edu/)) in the US, the Advanced Rare Isotope Laboratory ([ARIEL](https://www.triumf.ca/ariel-advanced-rare-isotope-laboratory/)) in Canada, the Facility for Antiproton and Ion Research ([FAIR](https://fair-center.eu/)) in Germany, the Rare Isotope Accelerator complex for Online Experiments ([RAON](https://risp.ibs.re.kr/html/risp_en/)) in Korea, and the Heavy-Ion Accelerator Facility ([HIAF](https://hiaf.impcas.ac.cn/hiaf_en/public/)) in China. 
 
@@ -14,19 +14,19 @@ Recently, we collaborated with Peter Ring, professor emeritus of Technische Univ
 
 |![NucChart_PCL3R_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/1e38050d-a270-4d5d-bb84-3ce601a2e180)|
 |:--:| 
-| *Figure 1. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [PC-L3R](https://doi.org/10.1016/j.physletb.2023.137946) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 1. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [PC-L3R](https://doi.org/10.1016/j.physletb.2023.137946) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/10.1016/j.adt.2023.101635) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 |![NucChart_PCX_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/f9158f10-a012-4ebf-989e-76e1790f7183)|
 |:--:| 
-| *Figure 2. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [PC-X](http://dx.doi.org/10.1016/j.physletb.2019.135065) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 2. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [PC-X](http://dx.doi.org/10.1016/j.physletb.2019.135065) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/10.1016/j.adt.2023.101635) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 |![NucChart_DDMEX_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/95870404-cf9d-494f-b514-5d2ebfaf806b)|
 |:--:| 
-| *Figure 3. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [DD-MEX](http://dx.doi.org/10.1016/j.physletb.2019.135065) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 3. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [DD-MEX](http://dx.doi.org/10.1016/j.physletb.2019.135065) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/10.1016/j.adt.2023.101635) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 |![NucChart_DDPCX_AME2020](https://github.com/lamyihua/nuclear-ground-state-properties/assets/91305961/a7df2446-a622-4e6f-b30f-ebb2741aaa14)|
 |:--:| 
-| *Figure 4. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [DD-PCX](http://dx.doi.org/10.1103/PhysRevC.99.034318) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/???) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
+| *Figure 4. The relative deviations of the available experimental binding energies of 2471 nuclei with the ones calculated from the RHB approach with the [DD-PCX](http://dx.doi.org/10.1103/PhysRevC.99.034318) interaction. See [At. Data Nucl. Data Tables XXX, YYY (2024)](https://doi.org/10.1016/j.adt.2023.101635) for more details. Image credit: Ning Lu, Yi Hua Lam, Zi Xin Liu.* |
 
 
 The research outcome was published at Atomic Data and Nuclear Data Tables (Open Access). The data tables of the article are converted to the ASCII format and can be downloaded at this GitHub page: 
@@ -46,7 +46,7 @@ If you use the data of this work in your research work and publications, please 
 Z. X. Liu, Y. H. Lam, N. Lu, and P. Ring, 
 Nuclear ground-state properties probed by the relativistic Hartree-Bogoliubov approach, 
 At. Data Nucl. Data Tables XXX, YYY (2024) 
-https://doi.org/??? 
+https://doi.org/10.1016/j.adt.2023.101635  
 ```
 
 BibTeX format
@@ -58,8 +58,8 @@ BibTeX format
      keywords = {Nuclear Theory, Nuclear Experiment},
          year = 2023,
         month = sep,
-          doi = {10.48550/arXiv.2309.06371},
-          url = {https://ui.adsabs.harvard.edu/abs/2023arXiv230906371L},
+          doi = {10.1016/j.adt.2023.101635},
+          url = {https://doi.org/10.1016/j.adt.2023.101635},
 }
 ```
 
