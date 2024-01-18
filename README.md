@@ -39,7 +39,7 @@ The research outcome was published at Atomic Data and Nuclear Data Tables (Open 
 
 
 
-### Citation ###
+### Citation (to be updated soon) ###
 If you use the data of this work in your research work and publications, please cite us:
 
 ```
@@ -55,9 +55,9 @@ BibTeX format
        author = {{Liu}, Zi Xin and {Lam}, Yi Hua and {Lu}, Ning and {Ring}, Peter},
         title = "{Nuclear ground-state properties probed by the relativistic Hartree-Bogoliubov approach}",
       journal = {At. Data Nucl. Data Tables},
-     keywords = {Nuclear Theory, Nuclear Experiment},
-         year = 2023,
-        month = sep,
+       volume = "XXX",
+        pages = "YYY", 
+         year = 2024,
           doi = {10.1016/j.adt.2023.101635},
           url = {https://doi.org/10.1016/j.adt.2023.101635},
 }
